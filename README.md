@@ -10,10 +10,10 @@ Lumen TV doesn't include or provide any channels, films or other content. You ne
 2. Allow Downloader to install apps:
    - **Fire TV:** Settings → My Fire TV → Developer options → Install unknown apps → Downloader → On. If you can't see Developer options, open Settings → My Fire TV → About and press OK on the device name 7 times.
    - **Google TV / Android TV:** Settings → Apps → Security & restrictions → Unknown sources → Downloader → On.
-3. Open Downloader, enter the code **9447363** and press Go. Or enter the full link:
+3. Open Downloader and enter:
 
    ```
-   https://github.com/Kwhelan97/lumen-tv-releases/releases/latest/download/lumen-tv.apk
+   https://github.com/k97122/lumen-tv-releases/releases/latest/download/lumen-tv.apk
    ```
 
 4. Choose **Install** when the download finishes, then **Open**.
