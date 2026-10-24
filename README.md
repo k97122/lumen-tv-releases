@@ -33,7 +33,7 @@ Install the newer version over the top using the same link. Your sign-in, favour
 ## Privacy
 
 - Your provider details are stored encrypted on your device and are only sent to your provider.
-- Lumen TV has no account system, analytics or tracking.
+- Lumen TV has no analytics or tracking. Once a day it asks GitHub whether a newer version is out.
 - Online subtitles are optional and use your own OpenSubtitles API key.
 
 ## Checking the download
