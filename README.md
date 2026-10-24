@@ -35,6 +35,7 @@ Install the newer version over the top using the same link. Your sign-in, favour
 - Your provider details are stored encrypted on your device and are only sent to your provider.
 - Lumen TV has no analytics or tracking. Once a day it asks GitHub whether a newer version is out.
 - Online subtitles are optional and use your own OpenSubtitles API key.
+- Smarter recommendations, cast photos and official trailers are optional and use your own TMDB API key; Lumen sends TMDB only the titles and names it looks up. Trailers play in YouTube's own player.
 
 ## Checking the download
 
